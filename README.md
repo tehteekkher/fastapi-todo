@@ -4,7 +4,7 @@ This is a To-Do application built using FastAPI, Pydantic, and SQLite for the ba
 ## 1. Clone the repository
 Clone the repository to your local machine:
 
-git clone https://github.com/JohnCarra/todolist.git  
+git clone 
 
 cd todolist
 
